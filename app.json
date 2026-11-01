@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Asmaron Supreme",
+    "slug": "asmaron-supreme-v19",
+    "version": "19.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.asmaron.supreme",
+      "versionCode": 19,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/branding.png",
+        "backgroundColor": "#0F172A"
+      }
+    },
+    "plugins": [],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
